@@ -1,3 +1,3 @@
 # hello_world
 
-The quick brown fox jumps over the lazy dog 
+The quick blue fox jumps over the lazy dog 
